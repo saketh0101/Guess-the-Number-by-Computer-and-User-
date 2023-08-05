@@ -1,1 +1,1 @@
-# Guess-the-Number-by-Computer-and-User-
+# Guess-the-Number-by-Computer-and-User
